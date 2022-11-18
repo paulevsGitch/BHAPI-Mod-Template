@@ -1,6 +1,6 @@
 # BHAPI-Mod-Template
 
-A template mod for BHAPI. It contains only basic imports and gradle setup. You can use it to create mods for BHAPI.
+A template mod for [BHAPI](https://github.com/paulevsGitch/BHAPI). It contains only basic imports and gradle setup. You can use it to create mods for BHAPI.
 
 ### How to setup:
 1. Replace **modid** with your mod id in these files:
