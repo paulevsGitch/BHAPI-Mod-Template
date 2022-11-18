@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "modid",
+	"version": "${version}",
+
+	"name": "Mod Name",
+	"description": "Mod Description",
+	"authors": [
+		"you"
+	],
+	"contact": {
+		"sources": "",
+		"issues": ""
+	},
+
+	"license": "Your License",
+	"icon": "assets/modid/icon.png",
+
+	"environment": "*",
+	"entrypoints": {},
+	"mixins": [],
+
+	"depends": {
+		"minecraft": "1.0.0-beta.7.3",
+		"bhapi": "*"
+	}
+}
